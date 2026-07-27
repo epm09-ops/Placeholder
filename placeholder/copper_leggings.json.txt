@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "copper_leggings",
+  "key": {
+    "X": {
+      "item": "c:ingots/bronze"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "caverns_and_chasms:copper_leggings"
+  }
+}
