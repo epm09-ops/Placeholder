@@ -4,12 +4,8 @@
     "default": "bountifulfares:trees_walnut_and_oak",
     "features": [
       {
-        "chance": 0.2,
+        "chance": 0.1,
         "feature": "atmospheric:morado_bush_sand"
-      },
-      {
-        "chance": 0.08,
-        "feature": "atmospheric:dry_laurel"
       }
     ]
   }
