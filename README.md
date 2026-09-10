@@ -5,5 +5,5 @@ currently
 *puts Atmospheric agave and morado bushes in Bountiful Fares walnut forests 
 *makes Caverns and Chasms copper tools use Bronze in their recipe (tagged, so any correctly tagged bronze [i hope])
 *makes vanilla Prismarine Lamps have a recipe similar to those of the Gem Lamps from Caverns and Chasms
-*renames a load of stuff to have better names (e.g. sulfur -> brimstone)
+*renames a load of stuff to have better names (e.g. sulfur -> brimstone, deepslate -> slate, prismarine-> aquamarine, blackstone -> diabase, with partial compat for Oreganized and Cavers and Chasms)
 *and more coming soon!! 
