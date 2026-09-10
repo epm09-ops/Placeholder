@@ -5,14 +5,14 @@
 " P ",
 "PGP",
 " P "
-    ]
+    ],
     "key": {
       "P": {
         "item": "minecraft:prismarine_shard"
       } 
       "G": { 
       "item": "minecraft:glow_ink_sac"
-    }
+    },
     "result": {
     "id" : "minecraft:sea_lantern"
     "count": 1
