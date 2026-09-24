@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wooded_badlands",
+    "atmospheric:dunes",
+    "atmospheric:rocky_dunes"
+  ]
+}
