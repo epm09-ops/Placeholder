@@ -1,4 +1,4 @@
-currently:/
+currently:\
 -puts Windswept pinecones on Environmental pines (HUGE thx to Polaris!)\
 -renames Environmental plum trees to Sakura trees, makes them drop cherries and use vanilla Cherry wood, and renames cheerful plums to Amondo trees\
 -puts bountiful fares orange trees in Atmospheric laurel forests \
