@@ -7,6 +7,7 @@ currently:\
 -makes vanilla Prismarine Lamps have a recipe similar to 
 those of the Gem Lamps from Caverns and Chasms\
 -renames a load of stuff to have better names (e.g. sulfur -> brimstone, deepslate -> slate, prismarine-> aquamarine, blackstone -> diabase, with partial compat for Oreganized and Cavers and Chasms)\
+-put Windswept features and structures in Environmental biomes \
 -puts Verdant plants in Windswept and Environmental biomes\
 -makes Windswept Tundra use Grounded Permafrost\
 -and more coming soon!! 
